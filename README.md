@@ -1,3 +1,5 @@
+<img width="567" alt="Clipboard_Screenshot_1740498352" src="https://github.com/user-attachments/assets/018b8c5b-562b-4087-9e3a-ef92cc25083b" />
+
 **摘要：**
 
  GitHub 仓库 "ameureka/Unsloth_Llama_deepseek"。专注于 Llama 3.1 8B 模型的训练、推理和保存，使用了 "Unsloth" 库。
